@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brandify Admin</string>
+    <string name="empty_list">there\'s no posts to review</string>
+    <string name="users">Users</string>
+    <string name="review">Review</string>
+    <string name="list_users_loading">The users list is loading</string>
+    <string name="no_users">There is no users</string>
+    <string name="statistics">Statistics</string>
+    <string name="posts">Posts</string>
+    <string name="no_reactions">You have no reactions yet</string>
+    <string name="fetching_posts">Fetching the posts</string>
+    <string name="pie_chart_title">Total Reactions types on Posts</string>
+    <string name="bar_chart_title">Total comments for each month</string>
+    <string name="post_details">Post Details</string>
+</resources>
